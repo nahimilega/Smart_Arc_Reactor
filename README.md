@@ -13,5 +13,7 @@ Taking inspiration from the Marvel series, our design is a recreation of the ico
  <img src="./demo/img2.webp" >
 
 ## Demo
-<video  style="display:block; width:100%; height:auto;" controls > <source src="./demo/demo_video.mp4" type="video/mp4" /> </video>
+
+[![Alt text for your video](https://img.youtube.com/vi/Rp4wu45AqXA/0.jpg)](http://www.youtube.com/watch?v=Rp4wu45AqXA)
+
 For more detailes you may refer to https://satvikaethakota.wixsite.com/mysite
